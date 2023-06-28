@@ -6,6 +6,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url("../../public/images/gettyimages-478186903.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
