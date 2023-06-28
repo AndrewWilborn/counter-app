@@ -1,7 +1,7 @@
 export default function Footer(){
     return (
         <>
-            <h2>Footer</h2>
+            <p id="githubLink"><a href="https://github.com/AndrewWilborn/counter-app">Github</a></p>
         </>
     )
 }
