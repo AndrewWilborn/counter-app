@@ -4,7 +4,7 @@
 }
 
 .button {
-    background-color: #4CAF50; /* Green */
+    background-color: rgba(76, 175, 79, 0.80); /* Green */
     border: none;
     border-radius: 8px;
     padding: 15px 0px;
@@ -19,5 +19,7 @@
 .display {
     font-size: 120px;
     background-color: rgba(76, 175, 79, 0.8); /* Green */
-
+    width: 252px;
+    margin:auto;
+    border-radius: 25px;
 }
